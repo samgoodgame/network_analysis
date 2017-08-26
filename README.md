@@ -2,7 +2,9 @@
 
 ### Purpose
 
-**This is site is a way to visualize the relationships between various military-affiliated Facebook pages.**
+**This site is a way to visualize the relationships between various military-affiliated Facebook pages.**
+
+I scraped the data from Facebook using Netvizz and did the graph analysis (creating communities in the data, etc.) and visualization in Gephy.
 
 Head to https://samgoodgame.github.io/network_analysis/ to check it out.
 
