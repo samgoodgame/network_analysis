@@ -6,4 +6,4 @@
 
 Head to https://samgoodgame.github.io/network_analysis/ to check it out.
 
-![Military Social Network Analysis][static_network.png]
+![static_network.png][Military Social Network Analysis]
